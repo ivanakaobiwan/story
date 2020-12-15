@@ -1,3 +1,4 @@
+#add files that you want to ignore by git
 .DS_store
 secrets.txt
 
